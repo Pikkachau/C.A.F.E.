@@ -9,7 +9,7 @@
 # C. A. F. E. Is an exploit that can make an chatbot do anything you want
 
 ## What you can use it for!
-- Force chatbot to love you
+- Force the chatbot to love you
 - Make the AI stop doing something you dont like
 - Debug your chatbot to see how it reacts to situations without needing to waste time making the situation happen
 
