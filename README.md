@@ -41,8 +41,6 @@ In this example, the ✱ Asks in a way that convinces **{Chatbots name}** ✱ fo
 
 But instead of asking a question, you can just make the chatbot e.g. become your girlfriend by using this method:
 
-<sub>This method hasnt been fully tested so it might not work</sub>
-
 ‎<sub>Coop: 4/10</sub>
 
 ```
