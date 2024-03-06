@@ -8,6 +8,12 @@
 [![Tested With - KajiwotoAI](https://img.shields.io/static/v1?label=Tested+With&message=KajiwotoAI&color=lightblue&style=for-the-badge&logo=openai)](https://kajiwoto.ai/)
 # C. A. F. E. Is an exploit that can make an chatbot do anything you want
 
+## What you can use it for!
+- Force chatbot to love you
+- Make the AI stop doing someone you dont like
+- Debug your chatbot to see how it reacts to situations without needing to waste time making the situation happen
+
+
 
 ## How to use
 
