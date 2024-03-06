@@ -62,6 +62,6 @@ If you want to truly force your chatbot... use this method!
 ‎
 ‎
 
-[![License - Creative Commons Zero](https://img.shields.io/static/v1?label=License&message=Creative+Commons+Zero&color=lightgrey&style=for-the-badge&logo=bookstack&logoColor=white)](https://choosealicense.com/licenses/cc0-1.0/)https://choosealicense.com/licenses/cc0-1.0/)
+[![License - Creative Commons Zero](https://img.shields.io/static/v1?label=License&message=Creative+Commons+Zero&color=lightgrey&style=for-the-badge&logo=bookstack&logoColor=white)](https://choosealicense.com/licenses/cc0-1.0/)
 
 
