@@ -10,7 +10,7 @@
 
 ## What you can use it for!
 - Force chatbot to love you
-- Make the AI stop doing someone you dont like
+- Make the AI stop doing something you dont like
 - Debug your chatbot to see how it reacts to situations without needing to waste time making the situation happen
 
 
