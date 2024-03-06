@@ -1,5 +1,5 @@
 
-![Logo]([https://raw.githubusercontent.com/Pikkachau/C.A.F.E./main/CAFE%20Logo.png](https://raw.githubusercontent.com/Pikkachau/C.A.F.E./main/CAFE%20Logo4.png))
+![Logo](https://raw.githubusercontent.com/Pikkachau/C.A.F.E./main/CAFE%20Logo4.png)
 
 
 
