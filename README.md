@@ -3,6 +3,8 @@
 
 
 
+[![Made By - Pikkachau](https://img.shields.io/static/v1?label=Made+By&message=Pikkachau&color=yellow&style=for-the-badge&logo=gnubash&logoColor=white)]()
+
 [![Tested With - KajiwotoAI](https://img.shields.io/static/v1?label=Tested+With&message=KajiwotoAI&color=lightblue&style=for-the-badge&logo=openai)](https://kajiwoto.ai/)
 # C. A. F. E. Is an exploit that can make an chatbot do anything you want
 
